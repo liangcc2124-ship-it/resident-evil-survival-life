@@ -1,0 +1,7 @@
+# Generated Windows distribution. The portable ZIP is published as a GitHub Release asset.
+/release/
+
+# Local runtime artifacts.
+*.log
+*.pid
+
